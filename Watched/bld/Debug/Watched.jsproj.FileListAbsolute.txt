@@ -1,0 +1,30 @@
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bin\Debug\AppxManifest.xml
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bin\Debug\Watched.build.appxrecipe
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\priconfig.xml
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\priconfig.xml.intermediate
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\layout.resfiles
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\layout.resfiles.intermediate
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\resources.resfiles
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\resources.resfiles.intermediate
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\pri.resfiles
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\pri.resfiles.intermediate
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\qualifiers.txt
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bld\Debug\ProjectArchitectures.txt
+C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bin\Debug\ReverseMap\resources.pri
+C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\ReverseMap\resources.pri
+C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\AppxManifest.xml
+C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\Watched.build.appxrecipe
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\priconfig.xml
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\priconfig.xml.intermediate
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\layout.resfiles
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\layout.resfiles.intermediate
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\resources.resfiles
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\resources.resfiles.intermediate
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\pri.resfiles
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\pri.resfiles.intermediate
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\qualifiers.txt
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\qualifiers.txt.intermediate
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lenovo\Desktop\Watched-master\Watched\bld\Debug\ProjectArchitectures.txt
