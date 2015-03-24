@@ -15,52 +15,64 @@
     <script src="/pages/itemDetail/itemDetail.js"></script>
 </head>
 <body>
-
-    <!-- 烦死了竟然要我手撸template -->
-    <div class="section1template" data-win-control="WinJS.Binding.Template">
-            <div class="templateItem" data-win-bind="style.background: color">
-                <ol>
-                    <li><span>title: </span><span data-win-bind="textContent: title"></span></li>
-                    <li><span>subtitle: </span><span data-win-bind="textContent: subtitle"></span></li>
-                    <li><span>year: </span><span data-win-bind="textContent: year"></span></li>
-                    <li><span>directorsAndCastsString: </span><span data-win-bind="textContent: directorsAndCastsString"></span></li>
-                </ol>
-            </div>
-    </div>
-
     <div class="hubpage fragment">
         <header aria-label="Header content" role="banner">
             <button data-win-control="WinJS.UI.BackButton"></button>
             <h1 class="titlearea win-type-ellipsis">
-                <span class="pagetitle">App1</span>
+                <span class="pagetitle" id="movieTitle">movie title</span>
             </h1>
+            
+            
         </header>
 
         <section aria-label="Main content" role="main">
-            <!-- Customize the Hub control by modifying the HubSection controls here. -->
-
             <div class="hub" data-win-control="WinJS.UI.Hub">
-                <div class="hero" data-win-control="WinJS.UI.HubSection">
+                <div id="hubhero" class="hero" data-win-control="WinJS.UI.HubSection">
                 </div>
 
 
+                <div class="section1" data-win-control="WinJS.UI.HubSection" data-win-options="{ isHeaderStatic: true }" data-win-res="{ winControl: {'header': 'brief'}}">
+                    <div id="section1"></div>
+                </div>
                 
-                
+                <div class="section2" data-win-control="WinJS.UI.HubSection" data-win-options="{ isHeaderStatic: true }" data-win-res="{ winControl: {'header': 'casts'}}">
+                    <div id="section2">
+                        
+                        <!-- Simple template for the ListView instantiation  -->
+                        <div class="smallListIconTextTemplate" data-win-control="WinJS.Binding.Template" style="display: none">
+                            <div class="smallListIconTextItem">
+                                <img src="#" class="smallListIconTextItem-Image" data-win-bind="src: picture" />
+                                <div class="smallListIconTextItem-Detail">
+                                    <h4 data-win-bind="textContent: name"></h4>
+                                    <h6 data-win-bind="textContent: job"></h6>
+                                </div>
+                            </div>
+                        </div>
 
-                <div class="section2" data-win-control="WinJS.UI.HubSection" data-win-options="{ isHeaderStatic: true }" data-win-res="{ winControl: {'header': 'Section2'} }">
-                    <div class="item-title win-type-medium" data-win-res="{ textContent: 'Section2ItemTitle' }"></div>
-                    <div class="article-header win-type-x-large" data-win-res="{ textContent: 'Section2Subtext' }"></div>
-                    <div class="win-type-xx-small" data-win-res="{ textContent: 'Section2ItemSubTitle' }"></div>
-                    <div class="win-type-small">
-                        <span data-win-res="{ textContent: 'Section2Description' }"></span>
-                        <span data-win-res="{ textContent: 'Section2Description' }"></span>
-                        <span data-win-res="{ textContent: 'Section2Description' }"></span>
-                        <span data-win-res="{ textContent: 'Section2Description' }"></span>
-                        <span data-win-res="{ textContent: 'Section2Description' }"></span>
-                        <span data-win-res="{ textContent: 'Section2Description' }"></span>
+                        <!-- The declarative markup necesary for ListView instantiation -->
+                        <!-- Call WinJS.UI.processAll() in your initialization code -->
+                        <div id="listView"
+                             class="win-selectionstylefilled"
+                             data-win-control="WinJS.UI.ListView"
+                             data-win-options="{
+                                itemDataSource: itemDetail.casts.dataSource,
+                                itemTemplate: select('.smallListIconTextTemplate'),
+                                selectionMode: 'none',
+                                tapBehavior: 'none',
+                                layout: { type: WinJS.UI.ListLayout }
+                             }">
+                        </div>
+
+
                     </div>
                 </div>
 
+                <div class="section3" data-win-control="WinJS.UI.HubSection" data-win-options="{ isHeaderStatic: true }" data-win-res="{ winControl: {'header': 'summary'}}">
+                    <div id="section3">
+                        <span id="description">暂无简介</span>
+                        <img width="420" />
+                    </div>
+                </div>
 
             </div>
         </section>

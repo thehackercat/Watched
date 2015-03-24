@@ -6,7 +6,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>04004a1c-2f98-4d98-bace-ace8889f2e35</PackageIdentityName>
-    <RegisteredManifestChecksum>A8E827F7ADD03507F20D97465A1B761FBB7E900E3796CDB8B331C3E02B476DEF</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>E6456B0B74ACEF8BFEAF7AB6476FD1583C0DDC415D4BC74DB64882EE276655F0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>04004a1c-2f98-4d98-bace-ace8889f2e35_1.0.0.0_neutral__gk938hsxq58a8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>04004a1c-2f98-4d98-bace-ace8889f2e35_gk938hsxq58a8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>04004a1c-2f98-4d98-bace-ace8889f2e35</RegisteredPackageID>
@@ -17,174 +17,210 @@
     <AppXManifest Include="C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:16:55.474</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\searchResult\searchResults.css">
       <PackagePath>pages\searchResult\searchResults.css</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\BadgeLogo.scale-180.png">
       <PackagePath>images\BadgeLogo.scale-180.png</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\BadgeLogo.scale-30.png">
+      <PackagePath>images\BadgeLogo.scale-30.png</PackagePath>
+      <Modified>2015-03-24T14:50:11.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-100.png">
+      <PackagePath>images\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-24T14:50:11.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-140.png">
+      <PackagePath>images\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-24T14:53:54.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-180.png">
+      <PackagePath>images\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-24T15:14:02.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-80.png">
+      <PackagePath>images\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-24T15:14:57.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square150x150Logo.scale-100.png">
       <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square150x150Logo.scale-140.png">
       <PackagePath>images\Square150x150Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square150x150Logo.scale-180.png">
       <PackagePath>images\Square150x150Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square150x150Logo.scale-80.png">
       <PackagePath>images\Square150x150Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square24.png">
+      <PackagePath>images\Square24.png</PackagePath>
+      <Modified>2015-03-24T15:14:57.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square310x310Logo.scale-140.png">
       <PackagePath>images\Square310x310Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square310x310Logo.scale-180.png">
       <PackagePath>images\Square310x310Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square310x310Logo.scale-80.png">
       <PackagePath>images\Square310x310Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square42.png">
+      <PackagePath>images\Square42.png</PackagePath>
+      <Modified>2015-03-24T14:53:54.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square54.png">
+      <PackagePath>images\Square54.png</PackagePath>
+      <Modified>2015-03-24T15:14:43.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square70x70Logo.scale-140.png">
       <PackagePath>images\Square70x70Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square70x70Logo.scale-180.png">
       <PackagePath>images\Square70x70Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square70x70Logo.scale-80.png">
       <PackagePath>images\Square70x70Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\storelogo.scale-180.png">
       <PackagePath>images\storelogo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Wide310x150Logo.scale-140.png">
       <PackagePath>images\Wide310x150Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Wide310x150Logo.scale-180.png">
       <PackagePath>images\Wide310x150Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\celebrity-default-medium.gif">
       <PackagePath>images\celebrity-default-medium.gif</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\js\data.js">
       <PackagePath>js\data.js</PackagePath>
-      <Modified>2015-03-21T15:57:05.356</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
-      <Modified>2015-03-21T16:08:35.206</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\searchResult\searchResults.js">
       <PackagePath>pages\searchResult\searchResults.js</PackagePath>
-      <Modified>2015-03-21T16:08:35.220</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\searchResult\searchResults.html">
       <PackagePath>pages\searchResult\searchResults.html</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-03-21T14:46:03.000</Modified>
+      <Modified>2015-03-24T15:16:55.333</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

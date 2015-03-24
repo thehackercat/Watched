@@ -32,6 +32,25 @@
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\BadgeLogo.scale-180.png">
       <PackagePath>images\BadgeLogo.scale-180.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\BadgeLogo.scale-30.png">
+      <PackagePath>images\BadgeLogo.scale-30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-100.png">
+      <PackagePath>images\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-140.png">
+      <PackagePath>images\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-180.png">
+      <PackagePath>images\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\SmallLogo.scale-80.png">
+      <PackagePath>images\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -52,6 +71,9 @@
       <PackagePath>images\Square150x150Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square24.png">
+      <PackagePath>images\Square24.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -67,6 +89,12 @@
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square310x310Logo.scale-80.png">
       <PackagePath>images\Square310x310Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square42.png">
+      <PackagePath>images\Square42.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square54.png">
+      <PackagePath>images\Square54.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
@@ -139,7 +167,7 @@
     <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\pages\searchResult\searchResults.html">
       <PackagePath>pages\searchResult\searchResults.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

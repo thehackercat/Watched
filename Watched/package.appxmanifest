@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="04004a1c-2f98-4d98-bace-ace8889f2e35" Version="1.0.0.0" Publisher="CN=Ivan" />
+  <Identity Name="04004a1c-2f98-4d98-bace-ace8889f2e35" Version="1.0.0.1" Publisher="CN=Ivan" />
   <Properties>
     <DisplayName>Watched</DisplayName>
     <PublisherDisplayName>Ivan</PublisherDisplayName>

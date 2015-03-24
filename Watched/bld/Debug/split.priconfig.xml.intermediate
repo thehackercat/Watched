@@ -5,7 +5,7 @@
     <autoResourcePackage qualifier="Scale" />
     <autoResourcePackage qualifier="DXFeatureLevel" />
   </packaging>
-  <index root="\" startIndexAt="C:\Users\Ivan\Visual Studio 2013\Projects\Watched\Watched\bin\Debug\resources.pri">
+  <index root="\" startIndexAt="C:\Users\lenovo\Desktop\Watched-master\Watched\bin\Debug\resources.pri">
     <default>
       <qualifier name="Language" value="en-US" />
       <qualifier name="Contrast" value="standard" />
@@ -13,7 +13,6 @@
       <qualifier name="HomeRegion" value="001" />
       <qualifier name="TargetSize" value="256" />
       <qualifier name="LayoutDirection" value="LTR" />
-      <qualifier name="DXFeatureLevel" value="DX9" />
       <qualifier name="Configuration" value="" />
       <qualifier name="AlternateForm" value="" />
     </default>
